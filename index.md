@@ -4,6 +4,7 @@
 
 
 
-1. [用GitHub建立個人靜態網頁][1]
++ [用GitHub建立個人靜態網頁][1]
 
 [1]: https://l0vemilktea.serveblog.net/
+
