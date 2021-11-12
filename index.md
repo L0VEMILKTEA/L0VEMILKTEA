@@ -1,18 +1,7 @@
 # Welcome to GitHub of L0VEMILKTEA
 
-### 標題測試
+### [用GitHub建立個人靜態網頁][1]
 
-```
-框框測試
-```
+[用GitHub建立個人靜態網頁][1]
 
-框框測試
-
-底線測試
-========
-
-*重點測試*
-**也是重點**
-~~刪除測試~~
-
-
+[1]: https://l0vemilktea.serveblog.net/
