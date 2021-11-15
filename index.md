@@ -11,8 +11,9 @@
 
 
 <address>
+
 <p><a href="mailto:40304138@go.hwh.edu.tw">
-40304138@go.hwh.edu.tw</a></p>
-<p>XiaoLatte</p>
+聯絡我</a></p>
+
 </address>
 
